@@ -1,6 +1,6 @@
 USE sql_project_p1;
 
-LOAD DATA LOCAL INFILE 'data/retail_sales.csv'
+LOAD DATA LOCAL INFILE 'data/Retail_Sales.csv'
 INTO TABLE retail_sales
 FIELDS TERMINATED BY ';'
 ENCLOSED BY '"'
