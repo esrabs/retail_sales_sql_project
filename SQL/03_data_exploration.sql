@@ -1,3 +1,5 @@
+USE sql_project_p1;
+
 /* ========= 2) Data exploration ========= */       
 		/*how many sales we have */
 select count(*) as total_sale from retail_sales ;
