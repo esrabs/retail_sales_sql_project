@@ -28,7 +28,7 @@ retail_sales_sql_project/
 ### 1️ Setup
 - Open **MySQL Workbench** and connect to your local MySQL server.  
 - Enable CSV import:  
-  > Edit → Preferences → SQL Editor → ✓ Enable “LOAD DATA LOCAL INFILE”.
+  > Edit → Preferences → SQL Editor →  Enable “LOAD DATA LOCAL INFILE”.
 
 ### 2️ Execution Steps
 1. Run `SQL/00_schema.sql` → creates the database and table  
